@@ -33,8 +33,8 @@ function Contact() {
                     </div>
                     <button className="button">Submit</button>
                 </form>
-                <a href="#" className="button contact_hidden">Contact us</a>
             </div>
+            <a href="#" className="button contact_hidden">Contact us</a>
         </div>
     )
 }

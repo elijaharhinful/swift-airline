@@ -9,9 +9,9 @@ function Choose() {
     return (
         <div className="choose section">
             <div className="choose__title">
-                <h2 className="section__title">Why Choose our travel airline?</h2>
+                <h2 className="section__title">Why Choose our travel <br className="choose__br" /> airline?</h2>
                 <h3 className="section__subtitle">
-                    Here are some of the reasons why you should book swift travel for your <br />
+                    Here are some of the reasons why you should book swift travel<br className="choose__br" />for your <br />
                     journeys.
                 </h3>
             </div>
